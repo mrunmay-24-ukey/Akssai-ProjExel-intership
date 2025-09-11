@@ -20,7 +20,6 @@ function ProductsPage(){
         setFavorites((prevState) => prevState.includes(id) ? prevState.filter(fid => fid !== id) : [...prevState, id])
     }, [])
 
-    
 
     return(
         <div>
