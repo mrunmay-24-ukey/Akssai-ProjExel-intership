@@ -1,0 +1,35 @@
+/* class selector */
+.container{
+    background-color: aquamarine;
+}
+
+/* id selector */
+#heading{
+    color: red;
+}
+
+/* attribute selector */
+[paragraph]{
+    color: coral;
+}
+
+[paragraph='para-2']{
+    color:green;
+}
+
+/* universal selector */
+*{
+    background-color: bisque;
+}
+
+/* combinations selector */
+
+/* direct child ko select karega ul ke  */
+ul > li{
+    color: blue;
+}
+
+/* Pseudo selectors */
+#heading:hover{
+    color:purple;
+}
