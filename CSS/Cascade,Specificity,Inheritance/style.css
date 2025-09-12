@@ -1,0 +1,26 @@
+#list{
+    background-color: purple;
+}
+
+.list{
+    background-color: coral;
+}
+
+.list{
+    background-color: yellow;
+}
+
+ul {
+    background-color: green;
+}
+
+ul{
+    background-color : aquamarine ;
+}
+
+
+/* text se related properties inherit ho jati hai  */
+ol{
+    color: olive;
+}
+
