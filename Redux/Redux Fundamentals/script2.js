@@ -5,33 +5,33 @@ let reduxState = {
     
 }
 
+let reduxState2 = reduxState
+
+
+
+// reducer function / StateUpdater 
 
 function reducer(state , action){
+    console.log(action)
     if(action.type === 'post/increment'){
         return {...state , post : state.post + 1}
     }
     else if(action.type === 'post/decrement'){
-        return {...state , post : state.post - 1}
+        return { ...state , post : state.post - 1}
     }
-
-    else if(action.type === 'post/incrementby'){
-        return {...state , post : state.post + action.payload}
+    else if(action.type === 'post/incrementBy'){
+        return { ...state, post : state.post + action.payload }
     }
-
-    // agar kuch bhi na match kare to state hi return kar do
-    return state
+    
 }
-//action ek pure js object hota hai 
-
-console.log(reduxState)
-reduxState = reducer(reduxState , {type : 'post/increment' })
-console.log(reduxState)
-reduxState = reducer(reduxState , {type : 'post/decrement' })
-console.log(reduxState)
-reduxState = reducer(reduxState , {type : 'post/increment' })
-console.log(reduxState)
 
 
-reduxState = reducer(reduxState , {type:'post/incrementby' , payload : 100})
+// yeh sab redux BTS karta hai 
+reduxState = reducer(reduxState , {type : 'post/increment'})
+reduxState = reducer(reduxState , {type : 'post/increment'})
+console.log(reduxState)
+reduxState = reducer(reduxState , {type : 'post/decrement'})
+console.log(reduxState)
+reduxState = reducer(reduxState , {type:'post/incrementBy' , payload : 50})
 console.log(reduxState)
 
