@@ -21,7 +21,7 @@
 63D:\Javascript\JS akksai\Redux\Manage complex state\package.json134023294976934909 0
 121D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\runtime-js\src\helpers\browser\prefetch-loader.js134023294966701187 0
 95D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\caniuse-lite\data\regions\FM.js134023294969691996 0
-55D:\Javascript\JS akksai\Redux\Manage complex state\dist134023305713394551 1
+55D:\Javascript\JS akksai\Redux\Manage complex state\dist134023349339100757 1
 101D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\caniuse-lite\data\features\streams.js134023294972170007 0
 92D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\lightningcss\node\index.d.ts134023294966340089 0
 87D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\ordered-binary\index.js134023294965237934 0
@@ -43,7 +43,7 @@
 73D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\redux\src134023294245587796 1
 109D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\caniuse-lite\data\features\css-placeholder.js134023294968760535 0
 113D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web134023294967662046 1
-60D:\Javascript\JS akksai\Redux\Manage complex state\script.js134023305713251098 0
+60D:\Javascript\JS akksai\Redux\Manage complex state\script.js134023349338828668 0
 94D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\watcher\src\DirTree.hh134023294966592475 0
 68D:\Javascript\JS akksai\Redux\Manage complex state\package-lock.json134023294977421631 0
 94D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\core\src\Validation.js134023294968482278 0
@@ -761,7 +761,7 @@
 89D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\semver\functions\clean.js134023294965053442 0
 91D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\workers\src\threads134023294966818270 1
 88D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\node-addon-api\README.md134023294966430720 0
-92D:\Javascript\JS akksai\Redux\Manage complex state\dist\Manage complex state.3c14d121.js.map134023305713384491 0
+92D:\Javascript\JS akksai\Redux\Manage complex state\dist\Manage complex state.3c14d121.js.map134023349339100757 0
 87D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\semver\functions\cmp.js134023294965217931 0
 90D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\semver\functions\coerce.js134023294965353046 0
 87D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\core\lib\public134023294968276915 1
@@ -2921,7 +2921,7 @@
 90D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\workers\lib\bus.js134023294965252972 0
 92D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\workers\lib\child.js134023294965553301 0
 97D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\workers\lib\childState.js134023294965742107 0
-88D:\Javascript\JS akksai\Redux\Manage complex state\dist\Manage complex state.3c14d121.js134023305713361204 0
+88D:\Javascript\JS akksai\Redux\Manage complex state\dist\Manage complex state.3c14d121.js134023349339080742 0
 106D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\workers\lib\core-worker.browser.js134023294965989601 0
 95D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\workers\lib\cpuCount.js134023294966168965 0
 99D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\workers\lib\web\WebChild.js134023294966893495 0
@@ -3442,7 +3442,7 @@
 98D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\core\src\RequestTracker.js134023294968105167 0
 98D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\core\src\resolveOptions.js134023294968129926 0
 101D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\core\src\SymbolPropagation.js134023294968234656 0
-66D:\Javascript\JS akksai\Redux\Manage complex state\dist\index.html134023298876707814 0
+66D:\Javascript\JS akksai\Redux\Manage complex state\dist\index.html134023326958740385 0
 90D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\core\src\worker.js134023294968532267 0
 110D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\core\src\requests\AssetGraphRequest.js134023294966691202 0
 105D:\Javascript\JS akksai\Redux\Manage complex state\node_modules\@parcel\core\src\requests\EntryRequest.js134023294967350581 0

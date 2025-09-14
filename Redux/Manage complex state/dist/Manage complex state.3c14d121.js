@@ -716,7 +716,7 @@ function reducer(state = initialState, action) {
                         quantity: item.quantity - 1
                     };
                     return item;
-                })
+                }).filter((item)=>item.quantity > 0)
             };
         case WISHLIST_ADD_ITEM:
             return {
