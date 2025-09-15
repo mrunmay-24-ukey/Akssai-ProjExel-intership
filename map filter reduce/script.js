@@ -40,3 +40,6 @@ console.log(sum)
 let nums = [1 , 2, 3];
 let product = nums.reduce((acc, curr) => acc * curr, 1);
 console.log(product);
+
+
+
