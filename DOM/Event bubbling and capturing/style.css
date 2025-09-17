@@ -1,0 +1,41 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.green{
+    background-color: green;
+    width: 50%;
+    height: 500px;
+}
+
+.pink{
+    background-color: pink;
+    width: 50%;
+    height: 50%;
+}
+
+.blue{
+    background-color: blue;
+    width: 50%;
+    height: 50%;
+}
+
+.red{
+    background-color: red;
+    width: 50%;
+    height: 500px;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 50%;
+    height: 50%;
+}
+
+.purple{
+    background-color: purple;
+    width: 50%;
+    height: 50%;
+}
