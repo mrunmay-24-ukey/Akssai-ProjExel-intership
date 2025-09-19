@@ -1,28 +1,16 @@
-const user1 = {
-  firstName: "anurag",
-  age: 24,
 
-  getAgeYear() {
-    return new Date().getFullYear() - user.age;
-  },
-};
-
-const user2 = {
-  firstName: "akash",
-  age: 20,
-
-  getAgeYear() {
-    return new Date().getFullYear() - user.age;
-  },
-};
-
-function createUser(firstName , age) {
+// factory functions 
+function createUser(firstName , lastName , age){
   const user = {
-    firstName : firstName,
-    age : age
-  };
-
-  return user;
+    firstName:firstName,
+    lastName : lastName ,
+    age : age,
+    getAgeYear : function (){
+      return new Date().getFullYear() - user.age
+    }
+  }
+  return user
 }
 
-
+const user1 = createUser('Mayur' , 'ukey' , 21)
+const user2 = createUser('Anurag' , 'Singh' , 23)
